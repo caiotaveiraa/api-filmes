@@ -19,7 +19,7 @@ Este projeto é um aplicativo de **Filmes Populares** desenvolvido em **Flutter*
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/caiotaveiraa/pokedex.git
+git clone https://github.com/caiotaveiraa/api-filmes.git
 ```
 
 2. Acesse a pasta do projeto:
