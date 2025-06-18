@@ -42,7 +42,7 @@ flutter run
 
 ## 📱 Vídeo da Aplicação na Versão Mobile
 
-| ![testes](imagens/video.gif) |
+| ![testes](Imagens/video.gif) |
 
 ## 📦 Link para Testar
 
